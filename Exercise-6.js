@@ -1,1 +1,1 @@
-const maxNumber=(...numbers)=>Math.max(...numbers)
+const maxNumber=(num1,num2,num3)=>Math.max(num1,num2,num3)
